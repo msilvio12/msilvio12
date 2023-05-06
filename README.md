@@ -15,7 +15,7 @@
 - 💬 Sobre mi/ About me:
 - 😄 Actualmente estoy trabajando como programador freelancer/I’m currently working as a freelance programmer
 - ⚡ En proceso de Desallorrador FullStack/I’m currently in the process of FullStack Developer
-- 📫 Como contactarme/ How to reach me: "msilvio_12@outlook.com"
+- 📫 Como contactarme/ How to reach me: "silvio_dev@outlook.com"
 
 
 -⚡🌱 Lenguajes y Herramientas/Languages and Tools:
