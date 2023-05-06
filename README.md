@@ -14,8 +14,8 @@
 
 - 💬 Sobre mi/ About me:
 - 😄 Actualmente estoy trabajando como programador freelancer/I’m currently working as a freelance programmer
-- ⚡ Actualmente estoy en proceso de Desallorrador FullStack/I’m currently in the process of FullStack Developer
-- 📫 Como contactarme/ How to reach me:"msilvio_12@outlook.com"
+- ⚡ En proceso de Desallorrador FullStack/I’m currently in the process of FullStack Developer
+- 📫 Como contactarme/ How to reach me: "msilvio_12@outlook.com"
 
 
 -⚡🌱 Lenguajes y Herramientas/Languages and Tools:
@@ -52,7 +52,7 @@
   </div>
 </div>
 
--⚡ Estadisticas/My Stats:
+-⚡ Estadísticas/My Stats:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msilvio12&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
