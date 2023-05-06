@@ -17,7 +17,8 @@
 - ⚡ Actualmente estoy en proceso de Desallorrador FullStack/I’m currently in the process of FullStack Developer
 - 📫 Como contactarme/ How to reach me:"msilvio_12@outlook.com"
 
--⚡🌱 Lenguagues y Herramientas/Languages and Tools:
+
+-⚡🌱 Lenguajes y Herramientas/Languages and Tools:
 
 <div align="left">
     <div>
@@ -37,7 +38,7 @@
         width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop"
         width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm"   alt="Pycharm"
         width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git"
         width="40" height="40"/>&nbsp;
@@ -53,9 +54,13 @@
 
 -⚡ Estadisticas/My Stats:
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msilvio12&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![msilvio12 GitHub stats](https://github-readme-stats.vercel.app/api?username=msilvio12&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvio12&hide_progress=true)](https://github.com/msilvio12/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvio12&layout=compact)](https://github.com/msilvio12/github-readme-stats)
 
 
