@@ -13,7 +13,7 @@
 
 
 - 💬 Sobre mi/ About me:
-- 😄 Actualmente estoy trabajando como programador en Agrobari S.A./I am currently working as a programmer at Agrobari S.A.
+- 😄 Actualmente estoy trabajando como programador freelance/I am currently working as a freelance programmer
 - ⚡ En proceso de Desallorrador FullStack/I’m currently in the process of FullStack Developer
 
 
