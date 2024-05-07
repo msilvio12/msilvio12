@@ -1,6 +1,6 @@
 # ¡Hola, soy Silvio! 👨‍💻
 
-![Desarrollador en constante crecimiento](https://i.gifer.com/24Br.gif)
+![Desarrollador en constante crecimiento](https://i.gifer.com/1Kte.gif)
 
 ## Lenguajes y Tecnologías
 ### Lenguajes de Programación:
