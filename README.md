@@ -12,8 +12,6 @@
 - <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="30"/> JavaScript
 - <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="30"/> Python
 - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" width="30"/> Java
-
-### Frameworks:
 - <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30"/> Node.js
 - <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/> MySQL
 - <img src="https://img.icons8.com/color/48/000000/git.png" width="30"/> Git
