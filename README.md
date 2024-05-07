@@ -12,6 +12,7 @@
 - <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="30"/> JavaScript
 - <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="30"/> Python
 - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" width="30"/> Java
+- <img src="https://img.icons8.com/color/48/000000/django.png" width="30"/> Django
 
 ### Herramientas y Frameworks:
 - <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30"/> Node.js
@@ -30,5 +31,4 @@
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvio12&hide_progress=true)](https://github.com/msilvio12/github-readme-stats)
 
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvio12&layout=compact)](https://github.com/msilvio12/github-readme-stats)
-
 
