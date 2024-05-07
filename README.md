@@ -1,8 +1,6 @@
 # ¡Hola, soy Silvio! 👨‍💻
 
-![Desarrollador en constante crecimiento](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
-## Acerca de mí
+![Desarrollador en constante crecimiento](https://www.canva.com/design/DAGEhCcAnOo/ZdgXJ5x1L7Zyr4gEWCjEMg/edit?utm_content=DAGEhCcAnOo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Lenguajes y Tecnologías
