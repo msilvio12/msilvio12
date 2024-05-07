@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
     <h1 align="center">Hola, soy Silvio👋 / Hello, I'm Silvio👋</h1>
@@ -24,19 +22,19 @@
 <div align="center">
     <h3>⚡🌱 Lenguajes y Herramientas / Languages and Tools:</h3>
     <div>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" alt="Gimp" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/python--v2.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/pycharm.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/sql-database-administrators-group.png" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+        <img src="https://img.icons8.com/color/48/000000/gimp.png" title="Gimp" alt="Gimp" width="40" height="40"/>&nbsp;
     </div>
 </div>
 
