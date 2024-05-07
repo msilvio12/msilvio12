@@ -22,14 +22,15 @@
 
 ## Estadísticas
 ### GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msilvio12&theme=dark&background=0D1117&stroke=FFD700&ring=FFD700&fire=FF0000&currStreakLabel=FF0000&currStreakNum=FF0000&sideNums=FFD700&sideLabels=FFD700&dates=FF0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msilvio12&theme=dark&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=DD2727&currStreakLabel=DD2727&currStreakNum=DD2727&sideNums=00D4FF&sideLabels=00D4FF&dates=DD2727)](https://git.io/streak-stats)
 
 ### Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=msilvio12&show_icons=true&theme=dark&icon_color=FFD700&title_color=FFD700&bg_color=0D1117&text_color=FFFFFF&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=msilvio12&show_icons=true&theme=dark&icon_color=00D4FF&title_color=00D4FF&bg_color=0D1117&text_color=FFFFFF&hide_border=true)
 
 ### Top Lenguajes
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvio12&hide_progress=true&theme=dark&icon_color=FFD700&title_color=FFD700&bg_color=0D1117&text_color=FFFFFF&hide_border=true)](https://github.com/msilvio12/github-readme-stats)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvio12&hide_progress=true&theme=dark&icon_color=00D4FF&title_color=00D4FF&bg_color=0D1117&text_color=FFFFFF&hide_border=true)](https://github.com/msilvio12/github-readme-stats)
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvio12&layout=compact&theme=dark&icon_color=FFD700&title_color=FFD700&bg_color=0D1117&text_color=FFFFFF&hide_border=true)](https://github.com/msilvio12/github-readme-stats)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvio12&layout=compact&theme=dark&icon_color=00D4FF&title_color=00D4FF&bg_color=0D1117&text_color=FFFFFF&hide_border=true)](https://github.com/msilvio12/github-readme-stats)
+
 
 
