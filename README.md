@@ -1,6 +1,6 @@
 # ¡Hola, soy Silvio! 👨‍💻
 
-![Desarrollador en constante crecimiento](https://i.gifer.com/1Kte.gif)
+[![Desarrollador en constante crecimiento](https://i.gifer.com/1Kte.gif)](https://www.canva.com/design/DAGEhCcAnOo/By8kd4DCu3uInZm9cbQUIQ/watch?utm_content=DAGEhCcAnOo&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
 
 ## Lenguajes y Tecnologías
 ### Lenguajes de Programación:
@@ -28,3 +28,4 @@
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvio12&hide_progress=true&theme=dark&icon_color=00D4FF&title_color=00D4FF&bg_color=0D1117&text_color=FFFFFF&hide_border=true)](https://github.com/msilvio12/github-readme-stats)
 
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=msilvio12&layout=compact&theme=dark&icon_color=00D4FF&title_color=00D4FF&bg_color=0D1117&text_color=FFFFFF&hide_border=true)](https://github.com/msilvio12/github-readme-stats)
+
