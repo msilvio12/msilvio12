@@ -3,7 +3,7 @@
 ![Desarrollador en constante crecimiento](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ## Acerca de mí
-¡Saludos! Soy Silvio, un apasionado desarrollador de software con un enfoque integral en la creación de soluciones innovadoras y escalables. Me encanta explorar nuevas tecnologías y aplicarlas en proyectos emocionantes. Siempre estoy en busca de desafíos que me ayuden a crecer como profesional.
+
 
 ## Lenguajes y Tecnologías
 ### Lenguajes de Programación:
